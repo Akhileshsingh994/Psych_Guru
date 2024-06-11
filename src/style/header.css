@@ -1,0 +1,37 @@
+.header{
+    background-image: url('https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 600px;
+  
+}
+.header .heading{
+    color: blue;
+    font-size: 30px;
+    height: 200px;
+    width: 700px;
+    text-align: center;
+    margin: 20px auto;
+}
+.header .more{
+    color: blue;
+    font-size: 30px;
+    height: 50px;
+    text-align: center;
+    margin: 10px auto;
+
+}
+.header .header-btn{
+    
+    margin: 20px auto;
+}
+.header .header-btn button{
+    color: white;
+    background-color: blue;
+    width: 250px;
+    height: 50px;
+    font-weight: 600;
+    
+}

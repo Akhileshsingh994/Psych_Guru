@@ -1,0 +1,41 @@
+.nav-container{
+    width: 100%;
+    height: 50px;
+    
+    
+    background-color: white;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.nav-container .logo{
+    color: pink;
+    padding: 10px 20px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 500;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    padding: 2px 20px;
+    font-weight: 480;
+}
+nav button{
+    float: right;
+}
+.btn button{
+    margin: 10px 20px;
+}
+.btn .btn1{
+    background-color: skyblue;
+    border: none ;
+    width: 200px;
+    height: 40px;
+}
+.btn .btn2{
+    
+    border: none ;
+}
